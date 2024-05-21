@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center px-2 py-8 bg-[#14412D]">
       <div className="flex flex-col z-10 w-full max-w-xl items-center justify-between">
-        <h1 className="flex text-center text-[#FFDE18] text-4xl w-full mb-6">Fini les pates au beurre, j’ai sorti mon livre</h1>
+        <h1 className="flex text-center text-[#FFDE18] text-4xl w-full mb-6">Mangez mieux qu’au restaurant, chez vous !</h1>
         <div className="flex w-[260px] min-h-[370px] justify-center mb-6 relative">
           <Image id="1" alt="livre 1" src={"/livre_1.png"} priority width={1000} height={1000} className="flex w-[260px] max-w-sm rounded-xl" />
           <Image id="2" alt="livre 2" src={"/livre_2.png"} priority width={1000} height={1000} className="hidden w-[260px] max-w-sm rounded-xl" />
