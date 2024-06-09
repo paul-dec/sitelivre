@@ -39,9 +39,9 @@ export default function Home() {
             <path d="M23.7513 24.9998L31.8763 16.8748C32.2582 16.4929 32.4492 16.0068 32.4492 15.4165C32.4492 14.8262 32.2582 14.3401 31.8763 13.9582C31.4944 13.5762 31.0082 13.3853 30.418 13.3853C29.8277 13.3853 29.3416 13.5762 28.9596 13.9582L19.3763 23.5415C19.168 23.7498 19.0204 23.9755 18.9336 24.2186C18.8468 24.4616 18.8034 24.7221 18.8034 24.9998C18.8034 25.2776 18.8468 25.538 18.9336 25.7811C19.0204 26.0241 19.168 26.2498 19.3763 26.4582L28.9596 36.0415C29.3416 36.4234 29.8277 36.6144 30.418 36.6144C31.0082 36.6144 31.4944 36.4234 31.8763 36.0415C32.2582 35.6596 32.4492 35.1734 32.4492 34.5832C32.4492 33.9929 32.2582 33.5068 31.8763 33.1248L23.7513 24.9998Z" fill="#FFDE18" />
           </svg>
         </div>
-        <a href="https://www.amazon.fr/Japprends-%C3%A0-cuisiner-avec-Roro/dp/2017239844" target="_blank" className="flex text-center w-full max-w-[360px] justify-center py-4 bg-[#FFDE18] text-[#14412D] font-bold rounded-xl  text-xl m-3">Précommander sur Amazon</a>
-        <a href="https://www.fnac.com/a19419266/Aurore-Ghigliano-J-apprends-a-cuisiner-avec-Roro" target="_blank" className="flex text-center w-full max-w-[360px] justify-center py-4 bg-[#FFDE18] text-[#14412D] font-bold rounded-xl  text-xl m-3">Précommander sur la Fnac</a>
-        <a href="https://www.leslibraires.fr/livre/23359981-j-apprends-a-cuisiner-avec-roro-aurore-ghigliano-hachette-pratique" target="_blank" className="flex text-center w-full max-w-[360px] justify-center py-4 bg-[#FFDE18] text-[#14412D] font-bold rounded-xl  text-xl m-3">Précommander sur Leslibraires</a>
+        <a href="https://www.amazon.fr/Japprends-%C3%A0-cuisiner-avec-Roro/dp/2017239844" target="_blank" className="flex text-center w-full max-w-[360px] justify-center py-4 bg-[#FFDE18] text-[#14412D] font-bold rounded-xl  text-xl m-3">Commander sur Amazon</a>
+        <a href="https://www.fnac.com/a19419266/Aurore-Ghigliano-J-apprends-a-cuisiner-avec-Roro" target="_blank" className="flex text-center w-full max-w-[360px] justify-center py-4 bg-[#FFDE18] text-[#14412D] font-bold rounded-xl  text-xl m-3">Commander sur la Fnac</a>
+        <a href="https://www.leslibraires.fr/livre/23359981-j-apprends-a-cuisiner-avec-roro-aurore-ghigliano-hachette-pratique" target="_blank" className="flex text-center w-full max-w-[360px] justify-center py-4 bg-[#FFDE18] text-[#14412D] font-bold rounded-xl  text-xl m-3">Commander sur Leslibraires</a>
       </div>
     </main>
   );
